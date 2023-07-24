@@ -3,7 +3,7 @@
 <a href="https://vercel.com/victorlbueno/sass-spa/HSMpBvLQvHyDdbJc2thBRaozXVeP" target="_blank">Click here to see this code running on your web</a></br></br>
 
 Technologies 
-<code>Sass</code> <code>CSS</code> <code>HTML</code>
+<code>Sass</code> <code>Partials</code> <code>Variable</code> <code>Mixin</code> <code>CSS</code> <code>HTML</code>
  
 #
 <h6>Links&ensp;&ensp;&ensp;&ensp;
